@@ -1,3 +1,5 @@
+// uma brau com 1 
+// https://youtu.be/5zwWPgXiXbE?si=8jk3AHSADLW9v4ZI
 let sonido, gato;
 let img=[];
 let estado=0;
@@ -121,3 +123,4 @@ function draw() {
     boton( 500, 400, 125, 60, "Inicio" );
   }
 }
+
