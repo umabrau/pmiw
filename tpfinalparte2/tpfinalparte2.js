@@ -1,5 +1,5 @@
 //Brau Uma , Gmelin Trinidad comision 1
-// 
+// https://youtu.be/5UbtX4E3hyg?si=iyMM6ziwiclfIFrA
 let imgAutos = [];
 let imgGato = [];
 let fondo, portada;
@@ -55,3 +55,4 @@ objJuego.crearAutos();
 
  }
 }
+
